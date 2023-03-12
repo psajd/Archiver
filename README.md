@@ -4,7 +4,7 @@
 Custom archiver. 
 
 Supported commands:
-<br \>
+<br />
   --file FILE             || The name of the file archive that the archiver will work with
   
   --create                || Command to create a file archive
